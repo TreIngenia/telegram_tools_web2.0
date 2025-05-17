@@ -1,0 +1,5 @@
+telethon
+PyQt5
+asyncio
+emoji
+python-dotenv
